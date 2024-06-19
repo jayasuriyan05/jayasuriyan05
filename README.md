@@ -1,10 +1,10 @@
 - 👋 Hi, I’m JAYA SURIYAN VP
-- 👀 I’m interested in IT Sector
-- 🌱 I’m currently learning ECE 
+- 👀 I’m interested in IT Sector.
+- 🌱 I’m currently learning ECE.
 - 💞️ I’m looking to collaborate on....
-- 📫 How to reach me on Instagram
+- 📫 You can reach me on Gmail and other Social Media Platforms.
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...I'm good at Cricket
+- ⚡ Fun fact: ...I'm good at Cricket Analytics.
 
 <!---
 jayasuriyan05/jayasuriyan05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
