@@ -1,7 +1,4 @@
-# Hey There! I am JAYA SURIYAN VP
-- 👋 Hi, I’m JAYA SURIYAN VP
-- 👀 I’m interested in IT Sector.
-- 🌱 I’m currently learning ECE.
-- 📫 Reach me on @jayasuriyan152005@gmail.com
-- ⚡ Fun fact: ...I'm good at Cricket Analytics.
+# Hey There! I am Jaya Suriyan VP
+Hello, I'm Jaya Suriyan VP, currently pursuing my studies at Dr. NGP IT. I am specializing in Electronics and Communication Engineering (ECE).
+
 
