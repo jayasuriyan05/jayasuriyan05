@@ -1,3 +1,4 @@
+#headings 
 - 👋 Hi, I’m JAYA SURIYAN VP
 - 👀 I’m interested in IT Sector.
 - 🌱 I’m currently learning ECE.
